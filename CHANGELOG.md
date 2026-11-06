@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Add `ToMarkdown` and `Normalize` to convert Atlassian Document Format JSON to safe Markdown, with size and depth limits, an unknown-node policy and typed errors.
 - Initial project structure from the factory utility template.
